@@ -4,7 +4,7 @@ AR Project
 The purpose of the AR Project is to recreate 3D objects based on original 2D images.
 
 Current Version
-===============
+---------------
 
 The current version implements OpenCV and PyOpenGL and is written for Python3.
 
