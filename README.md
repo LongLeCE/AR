@@ -27,4 +27,4 @@ Additional required packages include numpy, pygame and Pillow which can also be 
 License
 -------
 
-The source code of AR is licensed under the GNU Affero General Public License v3.0 license. See the LICENSE file for more details.
+The source code of AR Project is licensed under the GNU Affero General Public License v3.0 license. See the LICENSE file for more details.
