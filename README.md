@@ -12,8 +12,6 @@ Latest supported OpenCV version is 3.4.2.17 due to patented SIFT on newer versio
 
 OpenCV 3.4.2.17 can be installed using pip:
 
-.. code-block:: bash
-
     pip install opencv-contrib-python==3.4.2.17
 
 PyOpenGL can be obtained from https://www.lfd.uci.edu/~gohlke/pythonlibs/ as the default package installed using pip may raise some errors.
