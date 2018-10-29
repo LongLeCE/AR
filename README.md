@@ -16,6 +16,8 @@ OpenCV 3.4.2.17 can be installed using pip:
 
 PyOpenGL can be obtained from https://www.lfd.uci.edu/~gohlke/pythonlibs/ as the default package installed using pip may raise some errors.
 
+Additional required packages include numpy, pygame and Pillow which can also be installed using pip.
+
 License
 -------
 
